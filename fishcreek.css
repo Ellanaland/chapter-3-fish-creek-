@@ -9,7 +9,10 @@
 <h1>Fish Creek Animal Clinic</h1>
 </header>
 <nav>
-<b>
+<a href="index.html"><img src="home.gif" alt="home" width="132" height="27"></a>&nbsp
+<a href="sevices.html"><img src="sevices.gif" alt="services" width="132" height="27"></a>&nbsp
+<a href="askvet.html"><img src="askthevet.gif" alt="Ask The Vet" width="132" height="27"></a>&nbsp
+<a href="contact.html"><img src="contact.gif" alt="Contact" width="132" height="27"></a>&nbsp
 <a href="index.html">Home</a> &nbsp; 
 <a href="services.html">Services</a> &nbsp; 
 <a href="askvet.html">Ask the Vet</a> &nbsp; 
@@ -18,6 +21,11 @@
 </nav>
 <main>
 <h2>Ask the Vet</h2>
+<p>Contact un if you have a question that you would like to answered here</p>
+<di>
+<dt>Our dog, Sparky, likes to eat whatever the kids are snaking on. is it OK for the dog to eat ch\ocolate?</dt>
+<dd> Chocolate is toxic to dogs. Please do not feed your dog chocolate. Try playing a game with your kids. Everytime they get a human treat they can give the dog a dog treat.</dd>
+</di>
 </main>
 <footer>
 <small><i>Copyright &copy; 2020 Fish Creek Animal Clinic<br>
